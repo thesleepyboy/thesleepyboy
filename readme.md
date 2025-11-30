@@ -1,7 +1,7 @@
 <div align="center">
   <p float="left">
-    <img src="/assets/its-never-lupus-dr-house.gif" height="400" align="left">
-    <img src="/assets/sabrina-carpenter-tiktok.gif" height="400" align="right">
+    <img src="/assets/its-never-lupus-dr-house.gif" height="400" width="300" align="left">
+    <img src="/assets/sabrina-carpenter-tiktok.gif" height="400" width="300" align="right">
   </p>
   <div align="center">
     <samp>hi</samp>
@@ -11,6 +11,7 @@
     im currently learning typescript (and a little bit of c#)
   </div>
 </div>
+
 
 
 
