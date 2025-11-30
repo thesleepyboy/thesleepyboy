@@ -3,7 +3,7 @@
     <img src="/assets/its-never-lupus-dr-house.gif" height="400" align="left">
     <img src="/assets/sabrina-carpenter-tiktok.gif" height="400" align="right">
   </p>
-  <div align="center">
+  <div align="center" style="padding: 1rem">
     <samp>hi</samp>
     <br>
     <br>
@@ -11,6 +11,7 @@
     im currently learning typescript (and a little bit of c#)
   </div>
 </div>
+
 
 
 
