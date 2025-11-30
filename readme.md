@@ -10,7 +10,8 @@ im currently learning typescript (and a little bit of c#).
 <br>
 <br>
 some of... these things that i like to call projects are: <br>
-- bcra.js
+- bcra.js: a basic API wrapper for the banco central de la república argentina (bcra) API.
+
 
 
 
