@@ -10,11 +10,9 @@ im currently learning typescript (and a little bit of c#).
 <br>
 <br>
 some of... these things that i like to call projects are: <br>
-- bcra.js: a basic API wrapper for the banco central de la república argentina (bcra) API.
-
-
-
-
+- **bcra.js:** a basic API wrapper for the banco central de la república argentina (bcra) API.
+- **bcra.bot:** a discord bot that uses that API wrapper.
+- **trucobot:** a discord bot that lets you play a famous argentine card game called truco.
 
 
 
