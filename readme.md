@@ -1,7 +1,5 @@
 <div align="center">
-  <p float="left">
-    <img src="/assets/sabrina-carpenter-tiktok.gif" height="400" width="300" align="right">
-  </p>
+  <img src="/assets/sabrina-carpenter-tiktok.gif" height="400" width="300" align="right">
   <div align="center">
     <samp>hi</samp>
     <br>
@@ -10,6 +8,7 @@
     im currently learning typescript (and a little bit of c#)
   </div>
 </div>
+
 
 
 
